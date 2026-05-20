@@ -1,6 +1,6 @@
 ## yo 💨🤙
 
-![fahmi hafidz](/img/cover%20git%20hub.png)
+![fahmi hafidz](/img/git-cover.png)
 
 <!--
 **fahmihfdz/fahmihfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,8 @@ I enjoy turning ideas into projects — whether it's something useful, experimen
 - Node.js
 - Express.js
 - React
-- Python
+- Docker
+- Linux
 - Git & GitHub
 
 ### Fun Fact
