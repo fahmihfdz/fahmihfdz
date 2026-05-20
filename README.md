@@ -1,4 +1,6 @@
-## Hi there 👋
+## yo 💨🤙
+
+![fahmi hafidz](/img/cover%20git%20hub.png)
 
 <!--
 **fahmihfdz/fahmihfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Fahmi Hafidz**  a developer who enjoys building things, exploring new technologies, and continuously learning along the way.  
+
+Currently focused on learning **DevOps**, cloud infrastructure, and growing as a **Cybersecurity Enthusiast**.
+
+I enjoy turning ideas into projects — whether it's something useful, experimental, or simply built out of curiosity.
+
+### Currently
+- 🌱 Learning DevOps & cloud technologies
+- 🔐 Exploring cybersecurity and system security
+- 💻 Building and improving personal projects
+- 🚀 Always learning new tools and technologies
+- 🎧 Coding, debugging, and enjoying the process
+
+### Tech Stack
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- React
+- Python
+- Git & GitHub
+
+### Fun Fact
+> "works on my machine"
+
+---
+Thanks for visiting 🪐
